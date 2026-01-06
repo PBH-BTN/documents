@@ -1,11 +1,5 @@
 ---
-title: 欢迎
-description: 
-published: true
-date: 2026-01-06T07:01:37.137Z
-tags: 
-editor: markdown
-dateCreated: 2026-01-06T07:01:37.137Z
+sidebar_position: 1
 ---
 
 # 欢迎
